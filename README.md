@@ -34,9 +34,9 @@ $ cat /etc/motd
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="Wireshark" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40" />
-  <img src="https://www.torproject.org/images/tor-logo-2011-purple.svg" alt="Tor" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/tor.png" alt="Tor" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware" width="40" height="40" />
