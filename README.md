@@ -33,5 +33,5 @@ $ cat /etc/motd
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40" />
 </p>
