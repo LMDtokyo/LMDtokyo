@@ -43,3 +43,23 @@ $ cat /etc/motd
   <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="Assembly Language" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/openvpn.png" alt="VPN" width="40" height="40" />
 </p>
+
+## 🎮 Dota 2 Player
+
+<p align="center" style="font-family: monospace;">
+  <!-- Иконка ранга Титан из Dota 2 -->
+  <img src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/tiers/immortal_1.png" alt="Dota 2 Titan Rank" width="80" height="80" />
+</p>
+
+<p align="center" style="font-family: monospace; font-size: 20px; color: #FF0000;">
+  Dota 2
+</p>
+
+<p align="center" style="font-family: monospace; font-size: 16px;">
+  <strong>Ранг:</strong> <span style="color: #FFD700;">467</span>
+</p>
+
+<p align="center" style="font-family: monospace; font-size: 14px;">
+  Я <strong>игрок Dota 2</strong> с 2020 года. Обожаю соревноваться и постоянно стремлюсь к новым высотам в этой удивительной игре.
+</p>
+
