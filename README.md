@@ -18,7 +18,8 @@ drwxr-xr-x 2 user group 4096 Aug 26 2024 Skills
 drwxr-xr-x 2 user group 4096 Aug 26 2024 Contacts
 $ cat /etc/motd
 ```
-🛠 Технологии и Инструменты
+## 🛠 Технологии и Инструменты
+
 <p align="center" style="font-family: monospace;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
