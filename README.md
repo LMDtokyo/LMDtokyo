@@ -34,7 +34,7 @@ $ cat /etc/motd
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="40" height="40" />
+  <img src="https://seeklogo.com/images/W/wireshark-logo-AA21F1FAD7-seeklogo.com.png" alt="Wireshark" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/tor.png" alt="Tor" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
