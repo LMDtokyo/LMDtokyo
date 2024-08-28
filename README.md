@@ -47,8 +47,8 @@ $ cat /etc/motd
 ## 🎮 Dota 2 Player
 
 <p align="center" style="font-family: monospace;">
-  <!-- Custom Rank Image -->
-  <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27971017/88c94f63430b07b3d5bb967a084dd5ac97d5965d.png" alt="Custom Rank Image" width="80" height="80" />
+  <!-- Иконка Dota -->
+  <img src="https://github.com/LMDtokyo/LMDtokyo/blob/main/dota.png?raw=true" alt="Dota Image" width="80" height="80" />
 </p>
 
 <p align="center" style="font-family: monospace; font-size: 20px; color: #FF0000;">
@@ -61,5 +61,9 @@ $ cat /etc/motd
 
 <p align="center" style="font-family: monospace; font-size: 14px;">
   Я <strong>игрок Dota 2</strong> с 2020 года. Обожаю соревноваться и постоянно стремлюсь к новым высотам в этой удивительной игре.
+</p>
+
+<p align="center">
+  <img src="https://github.com/LMDtokyo/LMDtokyo/blob/main/meepo.jpg?raw=true" alt="Meepo Image" width="600" />
 </p>
 
