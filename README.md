@@ -47,8 +47,8 @@ $ cat /etc/motd
 ## 🎮 Dota 2 Player
 
 <p align="center" style="font-family: monospace;">
-  <!-- Иконка ранга Титан из Dota 2 -->
-  <img src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/tiers/immortal_1.png" alt="Dota 2 Titan Rank" width="80" height="80" />
+  <!-- Custom Rank Image -->
+  <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/27971017/88c94f63430b07b3d5bb967a084dd5ac97d5965d.png" alt="Custom Rank Image" width="80" height="80" />
 </p>
 
 <p align="center" style="font-family: monospace; font-size: 20px; color: #FF0000;">
