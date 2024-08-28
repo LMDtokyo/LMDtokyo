@@ -2,7 +2,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 </p>
 <p align="center" style="color: green; font-family: monospace; font-size: 14px;">
-+ Welcome to <span style="color: lightgreen;">[Ваше Имя]</span>'s Terminal                  +
++ Welcome to <span style="color: lightgreen;">[Lizi]</span>'s Terminal                  +
 </p>
 <p align="center" style="color: green; font-family: monospace; font-size: 14px;">
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
