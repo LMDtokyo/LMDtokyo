@@ -46,7 +46,7 @@ $ cat /etc/motd
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,docker,arch,bash,bootstrap,cs,cpp,css,discord,bots,django,dotnet,figma,flask,github,gitlab,html,htmx,js,kali,linux,mysql,nextjs,nodejs,npm,nuxtjs,phpstorm,postman,powershell,prisma,pycharm,py,react,ruby,sass,stackoverflow,tailwind,ts,ubuntu,visualstudio,vite,vue,vscode,webstorm,windows,yarn" />
   </a>
 </p>
 
