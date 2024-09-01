@@ -29,7 +29,7 @@ $ cat /etc/motd
 
 <!-- about me -->
 <p align="center">
-  Hi, I'm Lizi, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Lizi, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ .
   <br />
   <br />
   🎓 Currently a high school student.
