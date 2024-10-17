@@ -48,12 +48,56 @@
 </div>
 
 <!-- Skills Block -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Языки-Фреймворки-Инструменты 🔥</h2>
+
+<!-- Языки программирования -->
+### 🧑‍💻 Языки программирования
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,docker,arch,bash,bootstrap,css,discord,bots,django,flask,github,gitlab,html,htmx,js,kali,linux,mysql,nextjs,nodejs,npm,nuxtjs,postman,powershell,prisma,py,react,tailwind,ts,vite,vue,webstorm, alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,ruby" alt="Programming Languages" />
   </a>
 </p>
+
+<!-- Фреймворки и библиотеки -->
+### 🏗️ Фреймворки и библиотеки
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,react,nuxtjs,vue,nextjs,tailwind,sass" alt="Frameworks and Libraries" />
+  </a>
+</p>
+
+<!-- Инструменты -->
+### 🛠️ Инструменты
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,npm,postman,powershell,github,gitlab,figma,prisma" alt="Tools" />
+  </a>
+</p>
+
+<!-- IDE и редакторы -->
+### 💻 IDE и редакторы
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,phpstorm,vscode,visualstudio" alt="IDEs and Editors" />
+  </a>
+</p>
+
+<!-- Платформы и операционные системы -->
+### 🖥️ Платформы и ОС
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,arch" alt="Platforms and OS" />
+  </a>
+</p>
+
+<!-- Другие технологии -->
+### 🌐 Другие технологии
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,bash,vite,yarn" alt="Other Technologies" />
+  </a>
+</p>
+
 
 <!-- Snake Graph Block -->
 <div id="snake-graph" align="center">
