@@ -7,28 +7,30 @@
 
 
 <!-- Divider Block -->
-<p align="center" style="color: #32CD32; font-family: 'Courier New', monospace; font-size: 16px;">
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2300FF00&size=18&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++++" alt="Divider Animation">
+  </a>
 </p>
 
 <!-- Introduction Block -->
-<div id="introduction" align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Lizi!;&center=true&size=30" alt="Typing SVG" />
-    </a>
-  </h1>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Lizi!;&center=true&size=30&color=%2300FF00" alt="Introduction Animation">
+  </a>
+</p>
 
 <!-- Divider Block -->
-<p align="center" style="color: #32CD32; font-family: 'Courier New', monospace; font-size: 16px;">
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2300FF00&size=18&lines=+++++++++++++++++++++++++++++++++++++++++++++++++++++" alt="Divider Animation">
+  </a>
 </p>
 
 <!-- Animated Console Simulation Block -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2300FF00&size=18&lines=%24+echo+%22Booting+up+system...%22;%24+ls+-l+/user/data/;%24+cat+/etc/motd" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2300FF00&size=18&lines=%24+echo+%22Booting+up+system...%22;%24+ls+-l+/user/data/;%24+cat+/etc/motd" alt="Typing Console Animation">
   </a>
 </p>
 
