@@ -27,17 +27,18 @@
 
 <!-- Shell Simulation Block -->
 <div id="shell-simulation">
-  <pre style="background-color: #2d2d2d; color: #00ff00; padding: 20px; font-family: 'Courier New', monospace; border-radius: 5px;">
-$ echo "Booting up system..."
-Booting up system...
-$ ls -l /user/data/
-total 4
-drwxr-xr-x 2 user group 4096 Aug 26 2024 Projects
-drwxr-xr-x 2 user group 4096 Aug 26 2024 Skills
-drwxr-xr-x 2 user group 4096 Aug 26 2024 Contacts
-$ cat /etc/motd
+  <pre style="background-color: #1e1e1e; color: #00ff00; padding: 20px; font-family: 'Courier New', monospace; border-radius: 5px;">
+    <span style="color: #00ff00;">$ echo "Booting up system..."</span>
+    <span style="color: #ffffff;">Booting up system...</span>
+    <span style="color: #00ff00;">$ ls -l /user/data/</span>
+    <span style="color: #ffffff;">total 4</span>
+    <span style="color: #ffffff;">drwxr-xr-x 2 user group 4096 Aug 26 2024 Projects</span>
+    <span style="color: #ffffff;">drwxr-xr-x 2 user group 4096 Aug 26 2024 Skills</span>
+    <span style="color: #ffffff;">drwxr-xr-x 2 user group 4096 Aug 26 2024 Contacts</span>
+    <span style="color: #00ff00;">$ cat /etc/motd</span>
   </pre>
 </div>
+
 
 <!-- About Me Block -->
 <div id="about-me" align="center">
