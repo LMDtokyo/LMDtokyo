@@ -70,7 +70,7 @@
 ### 🛠️ Инструменты
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,npm,postman,powershell,github,gitlab,figma,prisma" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,npm,postman,powershell,github,gitlab,prisma" alt="Tools" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 ### 💻 IDE и редакторы
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,phpstorm,vscode,visualstudio" alt="IDEs and Editors" />
+    <img src="https://skillicons.dev/icons?i=webstorm,visualstudio" alt="IDEs and Editors" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 ### 🌐 Другие технологии
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bash,vite,yarn" alt="Other Technologies" />
+    <img src="https://skillicons.dev/icons?i=discord,bash,vite,npm" alt="Other Technologies" />
   </a>
 </p>
 
