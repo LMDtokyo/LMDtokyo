@@ -54,7 +54,7 @@
 ### 🧑‍💻 Языки программирования
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,ruby" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts" alt="Programming Languages" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@
 ### 🌐 Другие технологии
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,bash,vite,npm" alt="Other Technologies" />
+    <img src="https://skillicons.dev/icons?i=discord,bash,vite," alt="Other Technologies" />
   </a>
 </p>
 
