@@ -157,6 +157,6 @@
   </p>
 
   <p>
-    <img src="https://github.com/LMDtokyo/LMDtokyo/blob/main/meepo.jpg?raw=true" alt="Meepo Image" width="600" />
+    <img src="https://github.com/LMDtokyo/LMDtokyo/blob/main/f588f2cb596083e0d8e6c5f0c86319bd.gif?raw=true" alt="Meepo Image" width="600" />
   </p>
 </div>
