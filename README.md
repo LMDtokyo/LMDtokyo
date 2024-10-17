@@ -27,15 +27,15 @@
 
 <!-- Shell Simulation Block -->
 <div id="shell-simulation">
-  <pre style="background-color: #f4f4f4; padding: 20px; font-family: 'Courier New', monospace; border-radius: 5px;">
-    $ echo "Booting up system..."
-    Booting up system...
-    $ ls -l /user/data/
-    total 4
-    drwxr-xr-x 2 user group 4096 Aug 26 2024 Projects
-    drwxr-xr-x 2 user group 4096 Aug 26 2024 Skills
-    drwxr-xr-x 2 user group 4096 Aug 26 2024 Contacts
-    $ cat /etc/motd
+  <pre style="background-color: #2d2d2d; color: #00ff00; padding: 20px; font-family: 'Courier New', monospace; border-radius: 5px;">
+$ echo "Booting up system..."
+Booting up system...
+$ ls -l /user/data/
+total 4
+drwxr-xr-x 2 user group 4096 Aug 26 2024 Projects
+drwxr-xr-x 2 user group 4096 Aug 26 2024 Skills
+drwxr-xr-x 2 user group 4096 Aug 26 2024 Contacts
+$ cat /etc/motd
   </pre>
 </div>
 
