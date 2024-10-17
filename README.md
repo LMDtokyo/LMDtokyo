@@ -1,7 +1,16 @@
 <!-- Profile View Count Block -->
-<div id="profile-views" align="right">
-  <img src="https://komarev.com/ghpvc/?username=sanidhyy" alt="Profile Views" />
+<div id="profile-views" style="display: flex; justify-content: flex-end; margin: 10px; padding: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=sanidhyy" alt="Profile Views" 
+       style="border: 2px solid #32CD32; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); padding: 5px; transition: transform 0.3s ease;" />
 </div>
+
+<!-- Hover effect for profile views -->
+<style>
+  #profile-views img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
 
 <!-- Divider Block -->
 <p align="center" style="color: #32CD32; font-family: 'Courier New', monospace; font-size: 16px;">
