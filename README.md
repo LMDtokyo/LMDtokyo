@@ -97,6 +97,13 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</div>
+
+
 
 <!-- Snake Graph Block -->
 <div id="snake-graph" align="center">
