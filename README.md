@@ -26,8 +26,13 @@
 </p>
 
 <!-- Shell Simulation Block -->
-<div id="shell-simulation">
-  <pre style="background-color: #1e1e1e; color: #00ff00; padding: 20px; font-family: 'Courier New', monospace; border-radius: 5px;">
+<div id="shell-simulation" style="background-color: #1e1e1e; border-radius: 8px; padding: 20px; width: fit-content; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);">
+  <div style="display: flex; justify-content: space-between; padding: 5px; background-color: #333333; border-radius: 6px 6px 0 0;">
+    <span style="background-color: #ff5f56; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
+    <span style="background-color: #ffbd2e; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
+    <span style="background-color: #27c93f; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
+  </div>
+  <pre style="color: #00ff00; padding: 10px; font-family: 'Courier New', monospace;">
     <span style="color: #00ff00;">$ echo "Booting up system..."</span>
     <span style="color: #ffffff;">Booting up system...</span>
     <span style="color: #00ff00;">$ ls -l /user/data/</span>
@@ -38,6 +43,7 @@
     <span style="color: #00ff00;">$ cat /etc/motd</span>
   </pre>
 </div>
+
 
 
 <!-- About Me Block -->
