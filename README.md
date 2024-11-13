@@ -149,7 +149,7 @@
   </p>
 
   <p style="font-family: 'Courier New', monospace; font-size: 16px;">
-    <strong>Ранг:</strong> <span style="color: #FFD700;">467</span>
+    <strong>Ранг:</strong> <span style="color: #FFD700;">98</span>
   </p>
 
   <p style="font-family: 'Courier New', monospace; font-size: 14px;">
