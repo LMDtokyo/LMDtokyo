@@ -5,7 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=130&text=Code%20%26%20Hack%20Mode&fontAlign=50&fontAlignY=50&color=0:0A0A0A,100:E11D1D&fontColor=ffffff&animation=fadeIn" alt="animated banner" />
+  <svg width="720" height="140" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Code & Hack Mode banner">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0A0A0A" />
+        <stop offset="100%" stop-color="#E11D1D" />
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="720" height="140" rx="14" fill="url(#grad)" />
+    <text x="50%" y="55%" fill="#ffffff" font-size="34" font-family="JetBrains Mono, monospace" text-anchor="middle" dominant-baseline="middle">
+      Code &amp; Hack Mode
+    </text>
+  </svg>
 </p>
 
 <p align="center">
