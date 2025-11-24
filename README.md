@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Code%20%26%20Hack%20Mode&fontAlign=50&fontAlignY=35&color=0:0A0A0A,100:E11D1D&fontColor=ffffff&animation=fadeIn" alt="animated banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=130&text=Code%20%26%20Hack%20Mode&fontAlign=50&fontAlignY=50&color=0:0A0A0A,100:E11D1D&fontColor=ffffff&animation=fadeIn" alt="animated banner" />
 </p>
 
 <p align="center">
