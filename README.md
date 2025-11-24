@@ -5,15 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Backend-Golang-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Backend-Golang-0A0A0A?style=for-the-badge&logo=go&logoColor=00ADD8" /></a>
-  <a href="https://img.shields.io/badge/Node.js-Server-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E"> <img src="https://img.shields.io/badge/Node.js-Server-0A0A0A?style=for-the-badge&logo=node.js&logoColor=5FA04E" /></a>
-  <a href="https://img.shields.io/badge/Security-Learning-0A0A0A?style=for-the-badge&logo=protonvpn&logoColor=E11D1D"> <img src="https://img.shields.io/badge/Security-Learning-0A0A0A?style=for-the-badge&logo=protonvpn&logoColor=E11D1D" /></a>
+  <img src="https://img.shields.io/badge/Backend-TS%2FPython%2FLua%2FC%23-0A0A0A?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
+  <img src="https://img.shields.io/badge/Security-Learning-0A0A0A?style=for-the-badge&logo=protonvpn&logoColor=E11D1D" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs&theme=light" alt="Languages" />
+  </a>
 </p>
 
 ---
 
 ### Кто я
-- Серверный разработчик: Go / Node.js, REST/GraphQL, gRPC, очереди, SQL/NoSQL.
+- Серверный разработчик: TypeScript/Node.js, Python, Lua, C#, REST/GraphQL, очереди, SQL/NoSQL.
 - Учусь этичному хакингу: сетевые атаки, безопасность API, CTF-практика.
 - Люблю делать надёжные сервисы, писать чистый код и автоматизировать всё вокруг.
 
@@ -22,7 +27,7 @@
 - Собираю pet-проекты: сервисы для логирования и стриминга событий.
 
 ### Стек (кратко)
-`Go` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `gRPC` · `REST/GraphQL` · `JWT/OAuth2`
+`TypeScript` · `Python` · `Lua` · `C#` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `gRPC` · `REST/GraphQL` · `JWT/OAuth2`
 
 ---
 
