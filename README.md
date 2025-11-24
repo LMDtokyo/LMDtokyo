@@ -37,6 +37,18 @@ Lizi :: пишу бэкенд и ищу уязвимости.
 ### Стек (кратко)
 `TypeScript` · `Python` · `Lua` · `C#` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `gRPC` · `REST/GraphQL` · `JWT/OAuth2`
 
+### Стек и инструменты
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs,nodejs,postgres,redis,docker,linux&theme=light" alt="Stack icons" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali-Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=E11D1D" />
+  <img src="https://img.shields.io/badge/REST-API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-API-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E535AB" />
+</p>
+
 ---
 
 <p align="center">
