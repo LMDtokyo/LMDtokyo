@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs&theme=light" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs&theme=dark" alt="Languages" />
   </a>
 </p>
 
@@ -56,13 +56,22 @@ Lizi :: пишу бэкенд и ищу уязвимости.
 ### Стек и инструменты
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs,nodejs,postgres,redis,docker,linux&theme=light" alt="Stack icons" />
+    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs,nodejs,postgres,redis,docker,linux&theme=dark" alt="Stack icons" />
   </a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=E11D1D" />
   <img src="https://img.shields.io/badge/REST-API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-API-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E535AB" />
+</p>
+
+### Contribution snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
