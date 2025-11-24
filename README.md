@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Code%20%26%20Hack%20Mode&fontAlign=50&fontAlignY=35&color=0:0A0A0A,100:E11D1D&fontColor=ffffff&animation=fadeIn" alt="animated banner" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Backend-TS%2FPython%2FLua%2FC%23-0A0A0A?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
   <img src="https://img.shields.io/badge/Security-Learning-0A0A0A?style=for-the-badge&logo=protonvpn&logoColor=E11D1D" />
 </p>
