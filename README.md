@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=LMDtokyo&color=E11D1D&style=flat-square" alt="views" />
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=E11D1D&center=true&vCenter=true&multiline=true&width=520&lines=Привет%2C+я+Lizi+%E2%9C%A8;Backend+%2F+Server-side+Engineer;Учусь+этичному+хакингу" alt="Typing Intro" />
@@ -40,6 +44,19 @@ Lizi :: пишу бэкенд и ищу уязвимости.
 Страхи — в логи, идеи — в прод, хаос — в очередь задач.
 ```
 
+### Ночной билд
+> Иногда терминал — это чёрное окно, в котором отражается усталость.  
+> Я чиню чужие уязвимости и свои — параллельно, в одну ночную сессию.
+
+### Цитата хакера
+> "Мы латаем мир патчами, пока внутри остаются нулевые дни."
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=E11D1D&size=18&lines=$+echo+\"booting+lab...\";$+nmap+-sS+10.0.0.0/24;$+cat+/etc/motd" alt="console" />
+  </a>
+</p>
+
 ### Чем живу
 - Backend: TypeScript/Node.js, Python, Lua, C#, API (REST/GraphQL), очереди, SQL/NoSQL, gRPC.
 - Security: ломаю и чиню — CTF, threat modeling, сетевые векторы, безопасные протоколы.
@@ -65,6 +82,11 @@ Lizi :: пишу бэкенд и ищу уязвимости.
   <img src="https://img.shields.io/badge/GraphQL-API-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E535AB" />
 </p>
 
+### GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+</p>
+
 ### Contribution snake
 <p align="center">
   <picture>
@@ -75,7 +97,3 @@ Lizi :: пишу бэкенд и ищу уязвимости.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LMDtokyo&color=E11D1D&style=flat-square" alt="views" />
-</p>
