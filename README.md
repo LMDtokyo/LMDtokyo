@@ -38,15 +38,16 @@
 
 </div>
 
-```rust
-struct Developer {
-    name: "Lizi",
-    role: ["Backend Engineer", "Security Researcher"],
-    location: "Somewhere in the matrix",
-    languages: ["TypeScript", "Python", "Lua", "C#", "Rust"],
-    interests: ["Systems Design", "Ethical Hacking", "CTF", "Low-level"],
-    motto: "We fix vulnerabilities in others' code, forgetting our own bugs",
-}
+```cpp
+class Developer {
+public:
+    string name = "Lizi";
+    vector<string> roles = {"Backend Engineer", "Security Researcher"};
+    string location = "Somewhere in the matrix";
+    vector<string> languages = {"Lua", "Java", "C++", "C", "C#", "Python"};
+    vector<string> interests = {"Systems Design", "Ethical Hacking", "CTF", "Low-level"};
+    string motto = "We fix vulnerabilities in others' code, forgetting our own bugs";
+};
 ```
 
 <div align="center">
@@ -54,34 +55,31 @@ struct Developer {
 <!-- Tech Stack Section -->
 ## `> cat /proc/skills`
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🔧 Backend
+### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs,rust&theme=dark&perline=3" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ Data & Infra
+### Tools & Infrastructure
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,nginx&theme=dark&perline=3" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</td>
-<td valign="top" width="33%">
-
-### 🔐 Security
+### Security
 <p align="center">
-<img src="https://skillicons.dev/icons?i=bash,lua,vim,git,github&theme=dark&perline=3" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 <!-- Detailed Tech Badges -->
 <details>
@@ -90,25 +88,24 @@ struct Developer {
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Backend & APIs**
+**Frameworks & Runtime**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6F00?style=flat-square&logo=json&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 **Databases & Cache**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **DevOps & Tools**
 
@@ -121,7 +118,7 @@ struct Developer {
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
 </details>
 
@@ -135,21 +132,29 @@ struct Developer {
 
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/LMDtokyo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff&ring_color=E11D1D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff&ring_color=E11D1D"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
+  </picture>
 </a>
 
 <!-- Streak Stats -->
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LMDtokyo&theme=radical&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D&sideNums=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LMDtokyo&bg_color=0A0A0A&color=E11D1D&line=E11D1D&point=ffffff&area=true&area_color=E11D1D&hide_border=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LMDtokyo&theme=dark&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D&sideNums=ffffff&sideLabels=ffffff&dates=888888"/>
+  <img src="https://streak-stats.demolab.com?user=LMDtokyo&theme=dark&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D" alt="GitHub Streak"/>
+</picture>
 
 <!-- Trophies -->
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+</picture>
 
 </div>
 
