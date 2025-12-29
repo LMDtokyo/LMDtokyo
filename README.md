@@ -130,31 +130,29 @@ public:
 
 ## `> neofetch --stats`
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/LMDtokyo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff&ring_color=E11D1D"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
-  </picture>
-</a>
+<!-- Stats using shields.io - 100% reliable -->
+<p>
+  <img src="https://img.shields.io/github/stars/LMDtokyo?style=for-the-badge&color=E11D1D&labelColor=0A0A0A&logo=github&label=STARS"/>
+  <img src="https://img.shields.io/github/followers/LMDtokyo?style=for-the-badge&color=E11D1D&labelColor=0A0A0A&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/last-commit/LMDtokyo/LMDtokyo?style=for-the-badge&color=E11D1D&labelColor=0A0A0A&logo=github&label=LAST%20COMMIT"/>
+</p>
 
-<!-- Streak Stats -->
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LMDtokyo&theme=dark&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D&sideNums=ffffff&sideLabels=ffffff&dates=888888"/>
-  <img src="https://streak-stats.demolab.com?user=LMDtokyo&theme=dark&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D" alt="GitHub Streak"/>
-</picture>
-
-<!-- Trophies -->
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
-</picture>
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██╗     ██╗███████╗██╗    ██╗███████╗████████╗ █████╗ ████████╗  ║
+║   ██║     ██║╚══███╔╝██║    ██║██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝  ║
+║   ██║     ██║  ███╔╝ ██║    ██║███████╗   ██║   ███████║   ██║     ║
+║   ██║     ██║ ███╔╝  ██║    ██║╚════██║   ██║   ██╔══██║   ██║     ║
+║   ███████╗██║███████╗██║    ██║███████║   ██║   ██║  ██║   ██║     ║
+║   ╚══════╝╚═╝╚══════╝╚═╝    ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝     ║
+║                                                                    ║
+║   Languages: Lua • Java • C++ • C • C# • Python                    ║
+║   Focus: Backend Systems • Security Research • CTF                 ║
+║   Status: Building & Breaking                                      ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -222,21 +220,6 @@ public:
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## `> tail -f /var/log/activity`
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
