@@ -1,107 +1,275 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=LMDtokyo&color=E11D1D&style=flat-square" alt="views" />
+<!--
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                                                                              ║
+  ║   ██╗     ██╗███████╗██╗    GitHub Profile README                           ║
+  ║   ██║     ██║╚══███╔╝██║    Backend Engineer & Security Researcher          ║
+  ║   ██║     ██║  ███╔╝ ██║                                                     ║
+  ║   ██║     ██║ ███╔╝  ██║    "We patch others' systems, forgetting our own"  ║
+  ║   ███████╗██║███████╗██║                                                     ║
+  ║   ╚══════╝╚═╝╚══════╝╚═╝                                                     ║
+  ║                                                                              ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:E11D1D&height=200&section=header&text=Lizi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Security%20Researcher&descSize=20&descAlignY=55" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=E11D1D&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+whoami;Backend+Developer+%7C+Security+Enthusiast;%24+cat+/etc/motd;Building+systems+%26+breaking+boundaries)](https://git.io/typing-svg)
+
+<!-- Badges Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=LMDtokyo&style=for-the-badge&color=E11D1D&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/LMDtokyo?style=for-the-badge&color=E11D1D&labelColor=0A0A0A&logo=github" alt="Followers"/>
+  <a href="https://github.com/LMDtokyo?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Public-E11D1D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Repositories"/>
+  </a>
+</p>
+
 </div>
 
+---
+
+<div align="center">
+
+## `> whoami`
+
+</div>
+
+```rust
+struct Developer {
+    name: "Lizi",
+    role: ["Backend Engineer", "Security Researcher"],
+    location: "Somewhere in the matrix",
+    languages: ["TypeScript", "Python", "Lua", "C#", "Rust"],
+    interests: ["Systems Design", "Ethical Hacking", "CTF", "Low-level"],
+    motto: "We fix vulnerabilities in others' code, forgetting our own bugs",
+}
+```
+
+<div align="center">
+
+<!-- Tech Stack Section -->
+## `> cat /proc/skills`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔧 Backend
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=E11D1D&center=true&vCenter=true&multiline=true&width=520&lines=Привет%2C+я+Lizi+%E2%9C%A8;Backend+%2F+Server-side+Engineer;Учусь+этичному+хакингу" alt="Typing Intro" />
-  </a>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs,rust&theme=dark&perline=3" />
 </p>
 
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Data & Infra
 <p align="center">
-  <svg width="720" height="140" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Code & Hack Mode banner">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#0A0A0A" />
-        <stop offset="100%" stop-color="#E11D1D" />
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="720" height="140" rx="14" fill="url(#grad)" />
-    <text x="50%" y="55%" fill="#ffffff" font-size="34" font-family="JetBrains Mono, monospace" text-anchor="middle" dominant-baseline="middle">
-      Code &amp; Hack Mode
-    </text>
-  </svg>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,nginx&theme=dark&perline=3" />
 </p>
 
+</td>
+<td valign="top" width="33%">
+
+### 🔐 Security
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-TS%2FPython%2FLua%2FC%23-0A0A0A?style=for-the-badge&logo=typescript&logoColor=2F74C0" />
-  <img src="https://img.shields.io/badge/Security-Learning-0A0A0A?style=for-the-badge&logo=protonvpn&logoColor=E11D1D" />
+<img src="https://skillicons.dev/icons?i=bash,lua,vim,git,github&theme=dark&perline=3" />
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs&theme=dark" alt="Languages" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
+
+<!-- Detailed Tech Badges -->
+<details>
+<summary><b>📦 Full Stack Overview</b></summary>
+<br>
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6F00?style=flat-square&logo=json&logoColor=white)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Security**
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
+</details>
+
+</div>
 
 ---
 
-### Hacker-манифест
-```
-Lizi :: пишу бэкенд и ищу уязвимости.
-Два режима — красный импульс и тихий холод: биполярный цикл, но курс держу сам.
-Ночной код, зелёный курсор, белый шум серверов.
-Страхи — в логи, идеи — в прод, хаос — в очередь задач.
-```
+<div align="center">
 
-### Ночной откат
-```
-В кодированных ночах взламываю свои дни —
-битовый шум и искры, а время берёт пошлину.
-Смерть — финальный билд без отката и diff,
-а мы патчим чужие системы, забывая свою.
-```
+## `> neofetch --stats`
 
-### Ночной билд
-> Иногда терминал — это чёрное окно, в котором отражается усталость.  
-> Я чиню чужие уязвимости и свои — параллельно, в одну ночную сессию.
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/LMDtokyo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&icon_color=E11D1D&text_color=ffffff&ring_color=E11D1D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMDtokyo&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=E11D1D&text_color=ffffff"/>
+</a>
 
-### Тихая строка
-> «Мы чиним чужие сервисы патчами, но самые сложные 0-day — внутри себя.» — Lizi
+<!-- Streak Stats -->
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LMDtokyo&theme=radical&hide_border=true&background=0A0A0A&ring=E11D1D&fire=E11D1D&currStreakLabel=E11D1D&sideNums=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=E11D1D&size=18&lines=$+echo+\"booting+lab...\";$+nmap+-sS+10.0.0.0/24;$+cat+/etc/motd" alt="console" />
-  </a>
-</p>
+<!-- Activity Graph -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LMDtokyo&bg_color=0A0A0A&color=E11D1D&line=E11D1D&point=ffffff&area=true&area_color=E11D1D&hide_border=true" width="100%"/>
 
-### Чем живу
-- Backend: TypeScript/Node.js, Python, Lua, C#, API (REST/GraphQL), очереди, SQL/NoSQL, gRPC.
-- Security: ломаю и чиню — CTF, threat modeling, сетевые векторы, безопасные протоколы.
-- Инженерная гигиена: логирование/трейсинг, отказоустойчивость, автотесты, автоматизация.
+<!-- Trophies -->
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=LMDtokyo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
 
-### Сейчас в работе
-- Инструменты для пентеста и автоматизации: сканеры, словари, реверс-скрипты.
-- Демо-сервис: ingest/stream событий + алерты.
-- Личные лабы: Kali, контейнеры, эмуляторы уязвимых сервисов.
-
-### Стек (кратко)
-`TypeScript` · `Python` · `Lua` · `C#` · `Node.js` · `PostgreSQL` · `Redis` · `Docker` · `gRPC` · `REST/GraphQL` · `JWT/OAuth2`
-
-### Стек и инструменты
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,lua,cs,nodejs,postgres,redis,docker,linux&theme=dark" alt="Stack icons" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali-Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=E11D1D" />
-  <img src="https://img.shields.io/badge/REST-API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-API-0A0A0A?style=for-the-badge&logo=graphql&logoColor=E535AB" />
-</p>
-
-### GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMDtokyo&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-</p>
-
-### Contribution snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+</div>
 
 ---
+
+<div align="center">
+
+## `> cat /var/log/philosophy.txt`
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   В кодированных ночах взламываю свои дни —                 │
+│   битовый шум и искры, а время берёт пошлину.               │
+│   Смерть — финальный билд без отката и diff,                │
+│   а мы патчим чужие системы, забывая свою.                  │
+│                                                              │
+│   ───────────────────────────────────────────                │
+│                                                              │
+│   Мы чиним чужие сервисы патчами,                           │
+│   но самые сложные 0-day — внутри себя.                     │
+│                                                              │
+│                                               — Lizi         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> ps aux | grep projects`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔴 Current Focus
+- 🛡️ Pentest automation tools
+- 🔍 Custom vulnerability scanners
+- 🎯 CTF challenges & writeups
+- 📊 Event streaming pipelines
+
+</td>
+<td width="50%">
+
+### 🧪 Lab Environment
+- 🐧 Kali Linux workstation
+- 🐳 Containerized vuln services
+- 🌐 Network simulation lab
+- 📝 Security research notes
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `> tail -f /var/log/activity`
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LMDtokyo/LMDtokyo/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> netstat -an | grep LISTEN`
+
+<!-- Connect Section -->
+<a href="https://github.com/LMDtokyo">
+  <img src="https://img.shields.io/badge/GitHub-LMDtokyo-E11D1D?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
+</a>
+
+<br/><br/>
+
+<!-- Terminal Quote -->
+```bash
+$ echo "Thanks for visiting!"
+> Building secure systems by day, breaking them by night.
+> Remember: every system has vulnerabilities — some are just harder to find.
+$ exit 0
+```
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D1D,100:0A0A0A&height=120&section=footer"/>
+
+<!--
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  🔧 Tools used in this README:                                               ║
+  ║  • capsule-render - animated headers/footers                                 ║
+  ║  • readme-typing-svg - typing animation                                      ║
+  ║  • github-readme-stats - stats cards                                         ║
+  ║  • github-readme-streak-stats - contribution streaks                         ║
+  ║  • github-readme-activity-graph - activity visualization                     ║
+  ║  • github-profile-trophy - achievement trophies                              ║
+  ║  • skillicons.dev - tech stack icons                                         ║
+  ║  • shields.io - custom badges                                                ║
+  ║  • Platane/snk - snake contribution animation                                ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
